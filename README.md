@@ -14,14 +14,11 @@ Covid-19 Status has some unique features :
 
 Ability to help those in need
 If in any situation you are in, you need to find help, you can search for help and find volunteers near you. You can talk to them directly and request the servicess you need
-<img src="https://user-images.githubusercontent.com/15161553/111071977-fab0d180-84ae-11eb-9b47-db8eb6bf935f.png" width="150">
-<img src="https://user-images.githubusercontent.com/15161553/111071977-fab0d180-84ae-11eb-9b47-db8eb6bf935f.png" width="150">
-![image](https://user-images.githubusercontent.com/15161553/111071995-09978400-84af-11eb-8b03-ac68f78bb357.png)
-![image](https://user-images.githubusercontent.com/15161553/111072007-174d0980-84af-11eb-9d02-ccee9b159d18.png)
-![image](https://user-images.githubusercontent.com/15161553/111072016-22a03500-84af-11eb-9a0b-03fc4b6007ea.png)
-
-
-
+<img src="https://user-images.githubusercontent.com/15161553/111071977-fab0d180-84ae-11eb-9b47-db8eb6bf935f.png" width="250">
+<img src="https://user-images.githubusercontent.com/15161553/111071977-fab0d180-84ae-11eb-9b47-db8eb6bf935f.png" width="250">
+<img src="https://user-images.githubusercontent.com/15161553/111071995-09978400-84af-11eb-8b03-ac68f78bb357.png" width="250">
+<img src="https://user-images.githubusercontent.com/15161553/111072007-174d0980-84af-11eb-9d02-ccee9b159d18.png" width="250">
+<img src="https://user-images.githubusercontent.com/15161553/111072016-22a03500-84af-11eb-9a0b-03fc4b6007ea.png" width="250">
 
 Take self-assessment and see the results
 You will be able to take self-assessment to see if your condition is critical and the application can provide a plan of action such as calling 911.
